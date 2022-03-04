@@ -31,3 +31,9 @@ app.run(port=10000, debug=True)  # Executa o app
 ### Pra quem quiser treinar Python:
 
 https://www.codewars.com/kata/search/python?q=&r[]=-8&beta=false
+
+---
+
+### Vários exemplos de scripts Python para estudo:
+
+https://github.com/ByjusApps/examples-ptbr

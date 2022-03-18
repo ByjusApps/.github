@@ -40,7 +40,7 @@
 
 ### Instalação do 'MongoEngine'
 
-`pip install mongoengine`
+`pip install "pymongo[srv]"`
 
 ---
 
